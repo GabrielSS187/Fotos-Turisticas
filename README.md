@@ -14,6 +14,12 @@ Aqui</a></h1>
 
 **Fotos Turísticas** É um projeto que consiste em um  site moderno e agradavel com um visual elegante e com lindas fotos de fundo de locais maravilhosos ao redor do mundo. Um projeto feito mais para mostrar as funcionabilidades do site.
 
+<h2 align="center">Video demonstrativo</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/nKXUyFsZXd9TLXx8k1/giphy.gif" width="550 height="450"/>
+</p>
+
 ## 🔨 Tecnológias usadas
 
 - [React](https://pt-br.reactjs.org/) 💚
