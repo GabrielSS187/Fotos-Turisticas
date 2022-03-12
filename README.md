@@ -32,7 +32,7 @@ $ git clone  https://github.com/GabrielSS187/Fotos-Turisticas.git
 
 ```bash
 # Enter directory
-$ cd  Fotos-Turisticas
+$ cd  Landing Page-Photos
 ```
 
 ```bash
