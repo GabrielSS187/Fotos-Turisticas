@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <p>Fotos Turísticas</p>
+    <p>Tourist Photos</p>
     <img src="public/favicon.ico" height="330" width="340"/>
     <p>Vejá lindas fotos turísticas em um site moderno e agradavel<p>
 </h1>
